@@ -1,6 +1,8 @@
 local BlacklistModule = {}
 
-BlacklistModule.BlacklistedUserIds = {}
+BlacklistModule.BlacklistedUserIds = {
+    "2011804547"
+}
 
 BlacklistModule.BlacklistedGroupIds = {}
 
